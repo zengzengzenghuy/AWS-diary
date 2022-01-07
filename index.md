@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: "Home Page"
 ---
 # This is the first page!
