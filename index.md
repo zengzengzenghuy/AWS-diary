@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 #This is the first page!
 
