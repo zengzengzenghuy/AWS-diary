@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: page
 title: "Hello world!"
 ---
 
-## Hellow World
+## Hellowwww World
 
 **lalala**
 
