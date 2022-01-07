@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 #This is the first page!
 
