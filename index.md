@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-leap-day
 title: "Home Page"
 ---
 # This is the first page!
