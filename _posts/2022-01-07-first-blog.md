@@ -7,4 +7,4 @@ title: "Hello world!"
 
 **lalala**
 
-[Back to Home](index.md)
+[Back to Home](../index.md)
