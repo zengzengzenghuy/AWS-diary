@@ -2,7 +2,7 @@
 theme: jekyll-theme-leap-day
 title: "Hello world!"
 published: true
-permalink: /theniceblog
+permalink: /theniceblog.md
 ---
 
 ## Hellowwww World
