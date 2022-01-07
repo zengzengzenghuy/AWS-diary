@@ -1,7 +1,8 @@
 ---
 theme: jekyll-theme-leap-day
 title: "Hello world!"
-published: false
+published: true
+permalink: /theniceblog
 ---
 
 ## Hellowwww World
