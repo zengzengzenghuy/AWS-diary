@@ -28,7 +28,7 @@ baseurl: "/AWS-diary" # the subpath of your site, e.g. /blog
 url: "https://zengzengzenghuy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  zengzengzenghuy
-linkedin_username: https://www.linkedin.com/in/zenghuytay/
+linkedin_username: https://www.linkedin.com/in/zenghuytay
 
 
 # Build settings
