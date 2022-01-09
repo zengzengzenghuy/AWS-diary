@@ -47,7 +47,7 @@ Ok, once everything is up, we're good to go!
     ![Sign in](_assets/Create-an-AWS-Account/Sign_in.png)
 10. Click **Next** and insert your password.
 11. You will enter the AWS Management Console page.
-    ![AWS management console](_assets/Create-an-AWS-Account/AWS_management_console.png)
+    ![AWS management console](https://github.com/zengzengzenghuy/AWS-diary/blob/main/_posts/_assets/Create-an-AWS-Account/AWS_management_console.png)
 
 **Congratulations!**
 
