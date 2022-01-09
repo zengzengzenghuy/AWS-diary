@@ -38,12 +38,12 @@ Ok, once everything is up, we're good to go!
     - Basic support - Free (you can access to all AWS services within the limit of free tier for the next 12 months)
     - Developer support - $29/month
     - Business support - $100/month
-    ![Choose your plan](/_assets/Create-an-AWS-Account/Choose_your_plan.png)
+    ![Choose your plan](_assets/Create-an-AWS-Account/Choose_your_plan.png)
 7. Click complete sign up and you've now had an AWS account!
-    ![Sign up successful](/_assets/Create-an-AWS-Account/Sign_up_successful.png)
+    ![Sign up successful](_assets/Create-an-AWS-Account/Sign_up_successful.png)
 8. Click the **Go to the AWS Management Console** button in step 7.
 9. You'll see a new page. Now, sign in as a Root user. Insert the email address you've just used to sign up the account.
-    ![Sign in](/_assets/Create-an-AWS-Account/Sign_in.png)
+    ![Sign in](_assets/Create-an-AWS-Account/Sign_in.png)
 10. Click **Next** and insert your password.
 11. You will enter the AWS Management Console page.
     <img src="https://github.com/zengzengzenghuy/AWS-diary/blob/main/_posts/_assets/Create-an-AWS-Account/AWS_management_console.png" alt="management console">
