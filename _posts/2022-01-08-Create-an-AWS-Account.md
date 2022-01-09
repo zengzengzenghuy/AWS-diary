@@ -2,7 +2,6 @@
 layout: post
 title:  "Create an AWS Account"
 date:   2022-01-08 22:50:00 +0800
-categories: jekyll update
 ---
 
 # Create your own AWS account
