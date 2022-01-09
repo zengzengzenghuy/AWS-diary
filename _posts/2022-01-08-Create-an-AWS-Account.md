@@ -34,11 +34,11 @@ Ok, once everything is up, we're good to go!
     - credit/debit card information 
     > (AWS will not charge for usage below AWS Free Tier limits. AWS temporarily hold $1 USD/EUR as a pending transaction for 3-5 days to verify your identity.)
 6. Choose your plan
-    > There are three options to choose: 
-        - Basic support - Free (you can access to all AWS services within the limit of free tier for the next 12 months)
-        - Developer support - $29/month
-        - Business support - $100/month
-![Choose your plan](_assets/Create-an-AWS-Account/Choose_your_plan.png)
+    There are three options to choose: 
+    - Basic support - Free (you can access to all AWS services within the limit of free tier for the next 12 months)
+    - Developer support - $29/month
+    - Business support - $100/month
+    ![Choose your plan](_assets/Create-an-AWS-Account/Choose_your_plan.png)
 7. Click complete sign up and you've now had an AWS account!
     ![Sign up successful](_assets/Create-an-AWS-Account/Sign_up_successful.png)
 8. Click the **Go to the AWS Management Console** button in step 7.
