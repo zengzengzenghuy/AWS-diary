@@ -24,7 +24,7 @@ Hosting your static website has never been easier using the AWS platform. In thi
 ## Step by Step
 1. Log in to AWS Management Console
 2. Search **AWS Amplify**
-3. After entering the service, scroll to the bottom and click **Get Started!** under Amplify section
+3. After entering the service, scroll to the bottom and click **Get Started!** under Amplify Hosting 
 ![AWS Amplify](/AWS-diary/Image/Host-a-static-website/AWS-Amplify.png)
 4. You may choose to upload your code through different ways. I'm going to show you the two most popular ways: Github, and Deploy without Git Provider.
     1. Github
