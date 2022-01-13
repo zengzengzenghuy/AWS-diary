@@ -4,10 +4,10 @@ title:  "Host a static website"
 date:   2022-01-11 11:50:00 +0800
 ---
 ### Table of Content
-* [What is AWS Amplify?](#What-is-AWS-Amplify?)
+* [What is AWS Amplify?](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#What-is-AWS-Amplify?)
 * IS AWS Amplify free?(# Is AWS Amplify free?)
 * Step by Step(# Step by Step)
-* [Conclusion](#Conlusion)
+* [Conclusion](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Conlusion)
 
 Hosting your static website has never been easier using the AWS platform. In this article, you're going to understand how to use **AWS Simplify** to host your static website within minutes.
 
