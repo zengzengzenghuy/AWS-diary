@@ -5,16 +5,16 @@ date:   2022-01-11 11:50:00 +0800
 ---
 ### Table of Content
 * [What is AWS Amplify?](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#What-is-AWS-Amplify?)
-* IS AWS Amplify free?(# Is AWS Amplify free?)
-* Step by Step(# Step by Step)
-* [Conclusion](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Conlusion)
+* [IS AWS Amplify free?](https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Is-AWS-Amplify-free?)
+* [Step by Step](https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Step-by-Step)
+* [Conclusion](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Conclusion)
 
 Hosting your static website has never been easier using the AWS platform. In this article, you're going to understand how to use **AWS Simplify** to host your static website within minutes.
 
 ## [What is AWS Amplify?](#What-is-AWS-Amplify?)
 [AWS Amplify](https://aws.amazon.com/amplify/?nc=sn&loc=1) allows you to build, deploy and host your static website and mobile app with just a few click. You can connect your source code from Git repository or upgrade file to Amplify console to host your website or app.
 
-## Is AWS Amplify free?
+## [Is AWS Amplify free?](#Is-AWS-Amplify-free?)
 **If you are under Free Tier condition**, you get the following benefits for **FREE** :
 - 1000 build minutes per months
 - 5GB stored per month
@@ -26,7 +26,7 @@ Hosting your static website has never been easier using the AWS platform. In thi
 - $0.023 per GB stored per month
 - $0.15 per GB served
 
-## Step by Step
+## [Step by Step](#Step-by-Step)
 1. Log in to AWS Management Console
 2. Search **AWS Amplify**
 3. After entering the service, scroll to the bottom and click **Get Started!** under Amplify Hosting 
