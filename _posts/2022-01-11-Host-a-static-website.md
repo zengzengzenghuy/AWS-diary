@@ -3,10 +3,15 @@ layout: post
 title:  "Host a static website"
 date:   2022-01-11 11:50:00 +0800
 ---
+### Table of Content
+* [What is AWS Amplify?](#What-is-AWS-Amplify?)
+* IS AWS Amplify free?(# Is AWS Amplify free?)
+* Step by Step(# Step by Step)
+* [Conclusion](#Conlusion)
 
 Hosting your static website has never been easier using the AWS platform. In this article, you're going to understand how to use **AWS Simplify** to host your static website within minutes.
 
-## What is AWS Amplify?
+## [What is AWS Amplify?](#What-is-AWS-Amplify?)
 [AWS Amplify](https://aws.amazon.com/amplify/?nc=sn&loc=1) allows you to build, deploy and host your static website and mobile app with just a few click. You can connect your source code from Git repository or upgrade file to Amplify console to host your website or app.
 
 ## Is AWS Amplify free?
@@ -50,7 +55,7 @@ Hosting your static website has never been easier using the AWS platform. In thi
         ![Start a manual deployment](/AWS-diary/Image/Host-a-static-website/Start-a-manual-deployment.png)
         3. Your site is now up and ready!
         ![Done-2 page](/AWS-diary/Image/Host-a-static-website/Done2.png)
- 5. Add a domain name
+ 5. (Optional) Add a domain name
 
     Since the default domain name looks like https://dev.xxxxxxxxxx.amplifyapp.com, you may need to add a domain name to your website so that people can find your website easier.
 
@@ -67,12 +72,23 @@ Hosting your static website has never been easier using the AWS platform. In thi
 
     You can create a domain name using [AWS Route 53](https://aws.amazon.com/getting-started/hands-on/get-a-domain/) (A DNS service)
     > Domains are not part of the free tier so you will be charged for any domain you register.
+6. （Optional) Add a SSL certificate
 
-TO be continue....
+    SSL(Secure Socekt Layer) acts as a protect layer to secure the internet traffic to your website, preventing criminals from reading and modifying any information transferred.  It uses encryption algorithms to scramble data in transit, preventing hackers from reading it as it is sent over the connection.
+
+    You can get a SSL certificate from **AWS Certificate Manager**. The feel is only $0.75 for each certificate issued and it lasts for one year.
+
+    Check out [How do you get an SSL certificate with AWS](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/) for step-by-step guidance.
+7. Congratulation, your website is now secure and ready to go!
+
+## [Conclusion](#Conclusion)
+In this tutorial, an easy way to host a static website using AWS Amplify is demonstrated. It is almost free (may cost a little extra money if you wish to add domain and SSL certificate).
+
+There are other ways to create and host a static website on AWS platform. Check the the links below for more information.
 
 #### Useful Links
 1. [Deploy files stored on Amazon S3, Dropbox, or your Desktop to the AWS Amplify Console](https://aws.amazon.com/blogs/mobile/deploy-files-s3-dropbox-amplify-console/)
 2. [Host website with DNS, s3 bucket, SSL, and Cloudfront](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/)
 3. [Configuring a static website using a custom domain registered with Route 53](https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html)
 4. [How to Host a Website on S3 Without Getting Lost in the Sea](https://medium.com/@kyle.galbraith/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38)
-
+5. [Host a Static Website with AWS Amplify](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
