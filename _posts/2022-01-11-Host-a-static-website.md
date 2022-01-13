@@ -4,17 +4,18 @@ title:  "Host a static website"
 date:   2022-01-11 11:50:00 +0800
 ---
 ### Table of Content
-* [What is AWS Amplify?](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#What-is-AWS-Amplify?)
-* [IS AWS Amplify free?](https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Is-AWS-Amplify-free?)
-* [Step by Step](https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Step-by-Step)
-* [Conclusion](#https://zengzengzenghuy.github.io/AWS-diary/2022/01/11/Host-a-static-website.html#Conclusion)
+* [What is AWS Amplify?](#what-is-aws-amplify)
+* [IS AWS Amplify free?](#is-aws-amplify-free)
+* [Step by Step](#step-by-step)
+* [Conclusion](l#conclusion)
+* [Useful Links](#useful-links)
 
 Hosting your static website has never been easier using the AWS platform. In this article, you're going to understand how to use **AWS Simplify** to host your static website within minutes.
 
-## [What is AWS Amplify?](#What-is-AWS-Amplify?)
+## [What is AWS Amplify?](#what-is-aws-amplify)
 [AWS Amplify](https://aws.amazon.com/amplify/?nc=sn&loc=1) allows you to build, deploy and host your static website and mobile app with just a few click. You can connect your source code from Git repository or upgrade file to Amplify console to host your website or app.
 
-## [Is AWS Amplify free?](#Is-AWS-Amplify-free?)
+## [Is AWS Amplify free?](#is-aws-amplify-free)
 **If you are under Free Tier condition**, you get the following benefits for **FREE** :
 - 1000 build minutes per months
 - 5GB stored per month
@@ -26,7 +27,7 @@ Hosting your static website has never been easier using the AWS platform. In thi
 - $0.023 per GB stored per month
 - $0.15 per GB served
 
-## [Step by Step](#Step-by-Step)
+## [Step by Step](#step-by-step)
 1. Log in to AWS Management Console
 2. Search **AWS Amplify**
 3. After entering the service, scroll to the bottom and click **Get Started!** under Amplify Hosting 
@@ -81,12 +82,12 @@ Hosting your static website has never been easier using the AWS platform. In thi
     Check out [How do you get an SSL certificate with AWS](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/) for step-by-step guidance.
 7. Congratulation, your website is now secure and ready to go!
 
-## [Conclusion](#Conclusion)
+## [Conclusion](#conclusion)
 In this tutorial, an easy way to host a static website using AWS Amplify is demonstrated. It is almost free (may cost a little extra money if you wish to add domain and SSL certificate).
 
 There are other ways to create and host a static website on AWS platform. Check the the links below for more information.
 
-#### Useful Links
+#### [Useful Links](#useful-links)
 1. [Deploy files stored on Amazon S3, Dropbox, or your Desktop to the AWS Amplify Console](https://aws.amazon.com/blogs/mobile/deploy-files-s3-dropbox-amplify-console/)
 2. [Host website with DNS, s3 bucket, SSL, and Cloudfront](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/)
 3. [Configuring a static website using a custom domain registered with Route 53](https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html)
