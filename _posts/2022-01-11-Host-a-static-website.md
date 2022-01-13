@@ -7,7 +7,7 @@ date:   2022-01-11 11:50:00 +0800
 * [What is AWS Amplify?](#what-is-aws-amplify)
 * [IS AWS Amplify free?](#is-aws-amplify-free)
 * [Step by Step](#step-by-step)
-* [Conclusion](l#conclusion)
+* [Conclusion](#conclusion)
 * [Useful Links](#useful-links)
 
 Hosting your static website has never been easier using the AWS platform. In this article, you're going to understand how to use **AWS Simplify** to host your static website within minutes.
