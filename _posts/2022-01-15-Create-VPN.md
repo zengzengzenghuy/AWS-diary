@@ -44,6 +44,7 @@ Click **Create a new key pair** and type in your Key pair name. Then **Download 
 ![terminal ssh](/AWS-diary/Image/create-vpn/terminal-ssh.png)
 6. Re-type the ssh command and change 'root' to 'openvpnas'. I.e. ssh -i "key pair name" openvpnas@your instance Public DNS.
 7. Once you've connected successfully, run command ```sudo passwd openvpn``` to change the password. REMEMBER the password as you'll use it later to login to server. You may close your terminal/powershell now.
+
 ![reset password](/AWS-diary/Image/create-vpn/reset-password.png)
 8. Go back to EC2 console page and click the OpenVPN server instance. Find it's public IPv4 address and click **open address**.
 ![Open address](/AWS-diary/Image/create-vpn/open-address.png)
